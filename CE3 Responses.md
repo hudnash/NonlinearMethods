@@ -157,3 +157,4 @@ k1 = 1.0 (L/mol)1/2 h–1 and k2 = 0.25 L/(mol hr). You have been asked to prepa
 species as a function of residence time τ from 0–4 hours. 
 Prepare a plot for inlet concentrations of CA0 = 1.0 mol/L and CB0 = 2.0 mol/L. Clearly label your plot.
 ##### This will be solved by successive substitution.
+
